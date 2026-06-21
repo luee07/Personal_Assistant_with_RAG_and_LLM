@@ -285,7 +285,7 @@ This project demonstrates practical experience with:
 
 ## Author
 
-Ravi Kumar
+Rohit Kumar
 
 Undergraduate Researcher | AI & Deep Learning Enthusiast
 
